@@ -20,5 +20,6 @@
 
 # Bibliography
 
-<a href="https://www.mybib.com/b/ogNJXN">View Bibliography</a>
+![image](https://github.com/user-attachments/assets/32bbf865-7477-4296-b16d-be6b99645697)
+
 
